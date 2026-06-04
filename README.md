@@ -1,21 +1,22 @@
-# Homebrew Tap
+# SAP Cloud Infrastructure Homebrew Tap
 
-Provides the scikube CLI via [Homebrew](http://brew.sh/) package.
+Homebrew tap for CLIs and tools provided by the SAP Cloud Infrastructure team.
 
-> **Note:** This tap is currently for SAP-internal use only and requires connectivity to SAP's network to work.
+> [!NOTE]
+> This tap is currently for SAP-internal use only and requires connectivity to SAP's network.
 
 ## Installation
 
 ```bash
 brew tap sap-cloud-infrastructure/tap
-brew install scikube
+brew install <formula>
 ```
 
 ## Available Formulae
 
 | Formula | Description |
 |---------|-------------|
-| `scikube` | CLI for managing SCI Customer Gardener clusters |
+| `scikube` | CLI for the Persephone managed Kubernetes service |
 
 ## Development
 
