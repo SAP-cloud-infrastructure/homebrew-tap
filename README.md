@@ -2,6 +2,8 @@
 
 Provides the scikube CLI via [Homebrew](http://brew.sh/) package.
 
+> **Note:** This tap is currently for SAP-internal use only and requires connectivity to SAP's network to work.
+
 ## Installation
 
 ```bash
@@ -34,4 +36,4 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 ## Licensing
 
-Copyright 2025 SAP SE or an SAP affiliate company and homebrew-tap contributors. Please see our [LICENSE](LICENSE) for copyright and license information.
+Copyright 2025 SAP SE or an SAP affiliate company and SAP Cloud Infrastructure Homebrew Tap contributors. Please see our [LICENSE](LICENSE) for copyright and license information.
